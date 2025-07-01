@@ -30,7 +30,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "src/scripts.js"
+              "./node_modules/bootstrap/dist/js/bootstrap.bundle.js"
             ]
           },
           "configurations": {

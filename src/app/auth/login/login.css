@@ -1,0 +1,10 @@
+form{
+  margin: 40px;
+}
+ng-valid:not(form) .ng-touched {
+  border-left: 5px rgb(21, 190, 94);
+}
+
+ng-invalid:not(form) .ng-touched {
+  border-left: 5px rgb(211, 56, 50);
+}
